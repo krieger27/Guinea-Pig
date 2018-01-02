@@ -1,0 +1,13 @@
+.border {
+    border: 4px solid limegreen;
+}
+
+.rounded-border {
+    border: 1px solid cadetblue;
+    border-radius: 2em;
+    padding: .2em;
+}
+
+.button {
+    display: block;
+}
